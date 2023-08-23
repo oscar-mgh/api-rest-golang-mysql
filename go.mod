@@ -1,6 +1,6 @@
 module github.com/oscar-mgh/api-rest-golang-mysql
 
-go 1.21.0
+go 1.20.5
 
 require (
 	github.com/gorilla/mux v1.8.0
